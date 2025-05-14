@@ -1,7 +1,12 @@
 import React from "react";
+import SimpleCounter from "./SimpleCounter";
 
 const App = () => {
-  return <div>App</div>;
+  return (
+    <div>
+      <SimpleCounter />
+    </div>
+  );
 };
 
 export default App;
