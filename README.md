@@ -8,5 +8,5 @@ This repository contains multiple mini React projects built using Vite.
 - [Todo App](https://teja-yarragunta.github.io/react-projects-basic/todo-app/)
 - [Meals API](https://teja-yarragunta.github.io/react-projects-basic/meals-api/)
 - [Calculator](https://teja-yarragunta.github.io/react-projects-basic/calculator/)
-- [Color Toggler](https://teja-yarragunta.github.io/react-projects-basic/color-toggler/)
+- [Color-Toggler](https://teja-yarragunta.github.io/react-projects-basic/color-toggler/)
 - [Accordions](https://teja-yarragunta.github.io/react-projects-basic/accordion/)
