@@ -10,3 +10,4 @@ This repository contains multiple mini React projects built using Vite.
 - [Calculator](https://teja-yarragunta.github.io/react-projects-basic/calculator/)
 - [Color-Toggler](https://teja-yarragunta.github.io/react-projects-basic/color-toggler/)
 - [Accordions](https://teja-yarragunta.github.io/react-projects-basic/accordion/)
+- [Form Validation](https://teja-yarragunta.github.io/react-projects-basic/form-validation/)
